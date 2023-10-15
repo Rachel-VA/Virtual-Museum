@@ -1,0 +1,108 @@
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.AssemblyReference.cache
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\obj\Debug\An_Dinh_Palace.Properties.Resources.resources
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.GenerateResource.cache
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.CoreCompileInputs.cache
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\bin\Debug\An Dinh Palace.exe.config
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\bin\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\bin\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\obj\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\obj\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace\An Dinh Palace\obj\Debug\An_Dinh_Palace.RSmainForm.resources
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\bin\Debug\An Dinh Palace.exe.config
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\bin\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\bin\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.AssemblyReference.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\obj\Debug\An_Dinh_Palace.Properties.Resources.resources
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\obj\Debug\An_Dinh_Palace.RSmainForm.resources
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.GenerateResource.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.CoreCompileInputs.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\obj\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr\An Dinh Palace\obj\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\bin\Debug\An Dinh Palace.exe.config
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\bin\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\bin\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.AssemblyReference.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\obj\Debug\An_Dinh_Palace.Properties.Resources.resources
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\obj\Debug\An_Dinh_Palace.RSmainForm.resources
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.GenerateResource.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.CoreCompileInputs.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\obj\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn\An Dinh Palace\obj\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\bin\Debug\An Dinh Palace.exe.config
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\bin\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\bin\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.AssemblyReference.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\obj\Debug\An_Dinh_Palace.Properties.Resources.resources
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\obj\Debug\An_Dinh_Palace.RSmainForm.resources
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.GenerateResource.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.CoreCompileInputs.cache
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\obj\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\obj\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\An Dinh Palace add BGr - btn - animated\An Dinh Palace\obj\Debug\An_Dinh_Palace.Text_Effect.resources
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\bin\Debug\An Dinh Palace.exe.config
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\bin\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\bin\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.AssemblyReference.cache
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\obj\Debug\An_Dinh_Palace.Properties.Resources.resources
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\obj\Debug\An_Dinh_Palace.RSmainForm.resources
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\obj\Debug\An_Dinh_Palace.Text_Effect.resources
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.GenerateResource.cache
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.CoreCompileInputs.cache
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\obj\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\An Dinh Palace fix BG\An Dinh Palace\obj\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\bin\Debug\An Dinh Palace.exe.config
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\bin\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\bin\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.AssemblyReference.cache
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\obj\Debug\An_Dinh_Palace.Properties.Resources.resources
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\obj\Debug\An_Dinh_Palace.RSmainForm.resources
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\obj\Debug\An_Dinh_Palace.Text_Effect.resources
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.GenerateResource.cache
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.CoreCompileInputs.cache
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\obj\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\C#\week 2\An Dinh Palace completed\An Dinh Palace\obj\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\bin\Debug\An Dinh Palace.exe.config
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\bin\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\bin\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.AssemblyReference.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\obj\Debug\An_Dinh_Palace.Properties.Resources.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\obj\Debug\An_Dinh_Palace.RSmainForm.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\obj\Debug\An_Dinh_Palace.Text_Effect.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.GenerateResource.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.CoreCompileInputs.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\obj\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3\An Dinh Palace\obj\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\bin\Debug\An Dinh Palace.exe.config
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\bin\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\bin\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.AssemblyReference.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\obj\Debug\An_Dinh_Palace.Properties.Resources.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\obj\Debug\An_Dinh_Palace.RSmainForm.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\obj\Debug\An_Dinh_Palace.Text_Effect.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.GenerateResource.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.CoreCompileInputs.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\obj\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\obj\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\Week 3\An Dinh Palace W3 linked new form\An Dinh Palace\obj\Debug\An_Dinh_Palace.NewForm.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\bin\Debug\An Dinh Palace.exe.config
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\bin\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\bin\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.AssemblyReference.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An_Dinh_Palace.NewForm.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An_Dinh_Palace.Properties.Resources.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An_Dinh_Palace.RSmainForm.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An_Dinh_Palace.Text_Effect.resources
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.GenerateResource.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An Dinh Palace.csproj.CoreCompileInputs.cache
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An Dinh Palace.exe
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An Dinh Palace.pdb
+C:\Users\jpers\Desktop\UAT\C#\Week 3\experiment\An Dinh Palace W3 linked 2nd form\An Dinh Palace\obj\Debug\An_Dinh_Palace.ThirdForm.resources
